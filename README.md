@@ -26,6 +26,7 @@
 
 ## Dashboard 📈
 
+![dashboard (1)](https://github.com/anaflaviacv/Dashboard_Python/assets/129443378/4e11e061-1bb4-4751-838f-d0402c3f6a49)
 
 
-
+# FIM! 💖
