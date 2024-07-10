@@ -1,6 +1,7 @@
 <h1>Dashboard em Python 🐍</h1> 
 
 ### Este é um dashboard feito para analisar vendas durante o ano
+ps: estava estudando sobre gráficos enquanto fazia esse dashboard 
 
 
 
